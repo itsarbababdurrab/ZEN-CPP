@@ -1,0 +1,4 @@
+
+Literal num_1 = "10/2"
+Set>num_1
+
